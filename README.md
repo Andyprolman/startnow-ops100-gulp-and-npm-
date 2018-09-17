@@ -1,0 +1,1 @@
+when the button is clciked, an image of a cat will appear. all files are concatonated in the 'dist' folder.
